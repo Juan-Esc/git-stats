@@ -1,0 +1,47 @@
+{
+  "includeExtensions": [
+    ".ts",
+    ".tsx",
+    ".js",
+    ".jsx",
+    ".py",
+    ".go",
+    ".rs",
+    ".java",
+    ".kt",
+    ".rb",
+    ".php",
+    ".cs",
+    ".c",
+    ".cc",
+    ".cpp",
+    ".h",
+    ".hpp",
+    ".swift",
+    ".scala",
+    ".sh",
+    ".sql",
+    ".html",
+    ".css",
+    ".scss",
+    ".sass",
+    ".vue",
+    ".svelte",
+    ".astro",
+    ".tf",
+    ".proto",
+    ".graphql"
+  ],
+  "excludePaths": [
+    "dist/",
+    "coverage/",
+    "node_modules/",
+    "vendor/",
+    "target/",
+    "src/generated/"
+  ],
+  "aliases": {
+    "juan@example.com": "Juan Perez",
+    "juan perez": "Juan Perez"
+  }
+}
